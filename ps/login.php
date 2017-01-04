@@ -83,5 +83,6 @@ if ($_POST["inputNazwa"]!="" and $_POST["inputHaslo"]!="") {
 </div>
 </div>
 </div>
+<?php //$this->pokaz_zmienne(); ?>
 </div>
 
