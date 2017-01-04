@@ -1,0 +1,12 @@
+
+body {
+background-color: 000000;
+background-image: url(/gr/csgo2szary.jpg);
+background-position: center;
+background-attachment: fixed;
+background-repeat: no-repeat
+}
+.active2 {
+	background-image: url(/gr/tlo4-35.png);
+	color:#333333;
+}
